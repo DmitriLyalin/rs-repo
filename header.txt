@@ -1,4 +1,7 @@
+
 hello world
 this is conflict with first
 this is gitHub
+text from master - new changes
+this comment form "MASTER"
 
